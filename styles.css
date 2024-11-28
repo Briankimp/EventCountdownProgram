@@ -1,10 +1,10 @@
 /* Reset some default styles */
-/* body, h1, p, a, nav {
+body, h1, p, a, nav {
   margin: 0;
   padding: 0;
-} */
+}
 
-/* body {
+body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
@@ -28,12 +28,6 @@ nav a:hover {
 main {
   padding: 20px;
   text-align: center;
-} */
+}
 
-body{
-margin: 0;
-padding: 0;
-}
-h1{
-    color: red;
-}
+bo
